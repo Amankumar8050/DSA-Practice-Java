@@ -96,4 +96,12 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
