@@ -79,11 +79,13 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,8 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
