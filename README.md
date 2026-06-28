@@ -79,6 +79,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -86,6 +87,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -112,6 +114,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
