@@ -103,6 +103,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0009-palindrome-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
