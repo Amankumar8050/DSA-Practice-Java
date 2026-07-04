@@ -85,6 +85,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -101,11 +102,13 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0162-find-peak-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -125,6 +128,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0015-3sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -142,4 +146,12 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
