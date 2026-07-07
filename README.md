@@ -110,6 +110,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -143,6 +144,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
