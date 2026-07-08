@@ -113,6 +113,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0050-powx-n](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0342-power-of-four) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -145,6 +146,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
@@ -161,4 +163,5 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
