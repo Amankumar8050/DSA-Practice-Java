@@ -125,6 +125,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -160,9 +161,14 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
