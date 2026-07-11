@@ -111,6 +111,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0002-add-two-numbers](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
@@ -123,6 +124,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
@@ -160,6 +162,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
 ## Bit Manipulation
