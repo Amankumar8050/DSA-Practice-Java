@@ -105,6 +105,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0162-find-peak-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0066-plus-one](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0367-valid-perfect-square) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
