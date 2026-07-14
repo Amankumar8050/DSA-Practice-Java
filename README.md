@@ -129,6 +129,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0796-rotate-string) |
@@ -179,4 +180,8 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
