@@ -184,4 +184,8 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
