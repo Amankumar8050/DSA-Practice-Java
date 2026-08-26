@@ -85,6 +85,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0066-plus-one](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0217-contains-duplicate) |
@@ -177,6 +178,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0342-power-of-four) |
 ## Counting
