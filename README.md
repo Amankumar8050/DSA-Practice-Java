@@ -77,6 +77,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0015-3sum) |
@@ -171,6 +172,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
