@@ -91,6 +91,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -177,6 +178,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0217-contains-duplicate](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
