@@ -85,6 +85,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0027-remove-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
@@ -217,4 +218,9 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
