@@ -83,6 +83,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0015-3sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0054-spiral-matrix) |
@@ -112,6 +113,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
