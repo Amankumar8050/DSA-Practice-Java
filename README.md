@@ -98,6 +98,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +125,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
@@ -144,6 +146,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0410-split-array-largest-sum) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
@@ -182,6 +185,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
@@ -244,4 +248,8 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
