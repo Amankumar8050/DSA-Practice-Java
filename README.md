@@ -97,6 +97,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0410-split-array-largest-sum) |
@@ -175,6 +176,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0015-3sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -204,6 +206,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0001-two-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
@@ -217,6 +220,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -238,6 +242,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -265,4 +270,8 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0374-guess-number-higher-or-lower) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
