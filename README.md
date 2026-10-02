@@ -118,6 +118,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -165,6 +166,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0014-longest-common-prefix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0796-rotate-string) |
 ## String Matching
