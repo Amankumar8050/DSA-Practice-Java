@@ -86,6 +86,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0027-remove-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0054-spiral-matrix) |
@@ -116,6 +117,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0151-reverse-words-in-a-string) |
@@ -156,6 +158,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0410-split-array-largest-sum) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -231,6 +234,7 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0042-trapping-rain-water) |
 ## Database
 |  |
 | ------- |
@@ -279,4 +283,8 @@ B.Tech CSE (AI & ML) | Government Engineering College Khagaria
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Amankumar8050/DSA-Practice-Java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
